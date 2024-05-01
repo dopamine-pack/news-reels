@@ -1,0 +1,5 @@
+langchain~=0.1.16
+langchain-openai
+python-dotenv~=1.0.1
+bs4
+fake_useragent
